@@ -1,0 +1,61 @@
+[33mcommit cf6794d45746012e8333146736a382f3a90c408a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 3f56bf3 af489f7
+Author: Bera Dragos <beradragosdumitru@gmail.com>
+Date:   Mon Jul 23 20:20:40 2018 +0300
+
+    Merge branch 'master' of https://github.com/BeraDragos/sci-projects
+
+[33mcommit af489f701b0b222e306fd8f30ab90bc052b65491[m
+Author: BeraDragos <41587545+BeraDragos@users.noreply.github.com>
+Date:   Mon Jul 23 20:17:27 2018 +0300
+
+    Update first.txt
+    
+    sdasdsaasd
+
+[33mcommit 3f56bf3f17509c6b0b09110cd3e7db7225fb5862[m
+Merge: df5444e aab522a
+Author: Bera Dragos <beradragosdumitru@gmail.com>
+Date:   Mon Jul 23 20:16:14 2018 +0300
+
+    Merge branch 'master' of https://github.com/BeraDragos/sci-projects
+
+[33mcommit aab522a04b06757fbfaac7ae52cda5b2ebebc796[m
+Author: BeraDragos <41587545+BeraDragos@users.noreply.github.com>
+Date:   Mon Jul 23 20:14:55 2018 +0300
+
+    Update first.txt
+    
+    M-am razgandit
+
+[33mcommit df5444eaf9dbb8697fc66472245ea4b5187978b5[m
+Author: Bera Dragos <beradragosdumitru@gmail.com>
+Date:   Mon Jul 23 20:13:27 2018 +0300
+
+    Am modificat si in local inca o data
+
+[33mcommit a167b46c61f5a0d0fae8a0b25e5a456d209d5a60[m
+Author: BeraDragos <41587545+BeraDragos@users.noreply.github.com>
+Date:   Mon Jul 23 20:05:57 2018 +0300
+
+    Update first.txt
+    
+    am facut niste modificari remote
+
+[33mcommit 8ae2f7f4e43ac6c312dfb77aa29f605844c57841[m
+Author: Bera Dragos <beradragosdumitru@gmail.com>
+Date:   Mon Jul 23 19:57:33 2018 +0300
+
+    primul commit
+
+[33mcommit 457d8dabbc38534e3705945efa6e0ce6fcb0fd5d[m
+Author: BeraDragos <41587545+BeraDragos@users.noreply.github.com>
+Date:   Mon Jul 23 19:34:23 2018 +0300
+
+    Create git-info
+
+[33mcommit 51dfe5d0b2c2d65af4836e5d5f3724d88392e1be[m
+Author: BeraDragos <41587545+BeraDragos@users.noreply.github.com>
+Date:   Mon Jul 23 19:31:34 2018 +0300
+
+    Initial commit
